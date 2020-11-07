@@ -36,7 +36,7 @@ const App = () => {
         <h1 className="App-title">Bienvenue sur le Blindtest</h1>
       </header>
       <div className="App-images">
-        <p>Blindtest Time !</p>
+        <p>Sku sku</p>
       </div>
       <div className="App-buttons">
       </div>
